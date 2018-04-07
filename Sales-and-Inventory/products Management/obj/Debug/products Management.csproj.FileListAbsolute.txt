@@ -1,0 +1,32 @@
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_LOGIN.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.Properties.Resources.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products Management.csproj.GenerateResource.Cache
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\bin\Debug\products Management.exe
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\bin\Debug\products Management.pdb
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products Management.exe
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products Management.pdb
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_MAIN.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_ADD_PRODUCT.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_PRODUCTS.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_PREVIEW.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.RPT.FRM_RPT_PRODUCT.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_CUSTOMERS.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_ORDERS.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_CUSTOMERS_LIST.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_ORDERS_LIST.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_ADD_USER.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_USERS_LIST.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_BACKUP.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM__RESTORE.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_CONFIG.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\bin\Debug\products Management.exe.config
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\bin\Debug\products Management.exe.manifest
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\bin\Debug\products Management.application
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products Management.TrustInfo.xml
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products Management.exe.manifest
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products Management.application
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_SUPPLIERS_LIST.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_ORRDER_TOTAL.resources
+C:\Users\yahya\Documents\Visual Studio 2008\Projects\products Management\products Management\obj\Debug\products_Management.PL.FRM_Inventory.resources
